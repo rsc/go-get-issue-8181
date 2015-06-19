@@ -1,3 +1,3 @@
 package b
 
-import _ "code.google.com/p/go.tools/godoc"
+import _ "golang.org/x/build/cmd/cl"

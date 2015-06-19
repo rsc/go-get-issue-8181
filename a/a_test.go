@@ -1,3 +1,3 @@
 package a
 
-import _ "code.google.com/p/go-get-issue-8181/b"
+import _ "github.com/rsc/go-get-issue-8181/b"
