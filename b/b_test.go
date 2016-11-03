@@ -1,3 +1,3 @@
 package b
 
-import _ "golang.org/x/build/cmd/cl"
+import _ "golang.org/x/build/gerrit"
